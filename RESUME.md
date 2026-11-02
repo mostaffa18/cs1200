@@ -7,7 +7,7 @@ Northeastern University
 
 **Major:** Bachelor of Science in Computer Science
 
-**Expected Graduation:** [Your graduation month and year]
+Expected Graduation: 2030
 
 ## Skills
 - Programming
