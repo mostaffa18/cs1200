@@ -1,10 +1,3 @@
-# cs1200
-# My Resume
+# CS1200
 
-## Education
-Northeastern University
-Bachelor of Science in Computer Science
-
-## Skills
-- Programming
-- Web Development
+This repository contains my resume for CS1200 at Northeastern University.
